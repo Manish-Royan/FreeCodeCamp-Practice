@@ -14,11 +14,11 @@ Change the text of the `h1` element below from "Hello World" to "CatPhotoApp".
 
 **• From**
 
-```bash
+```HTML
     <h1>Hello World</h1>
 ```
 
 **• To**
-```bash
+```HTML
      <h1>CatPhotoApp</h1>
 ```
