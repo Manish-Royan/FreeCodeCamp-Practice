@@ -10,7 +10,7 @@ The first element we will learn about is the `h1` element. The `h1` element is a
 
 ## Task
 
-Change the text of the `h1` element below from Hello World to CatPhotoApp and watch the change in the browser preview.
+Change the text of the `h1` element below from "Hello World" to "CatPhotoApp".
 
 **• From**
 
