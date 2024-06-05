@@ -1,6 +1,6 @@
 # This is Step 4
 
-We will be learn about the **comment**. Commenting allows you to leave messages without affecting the browser display. It also allows you to make code inactive.
+We will be learning about the **comment**. Commenting allows you to leave messages without affecting the browser display. It also allows you to make code inactive.
 
 A comment in HTML starts with ``<!--``, contains any number of lines of text, and ends with ``-->``.
 
