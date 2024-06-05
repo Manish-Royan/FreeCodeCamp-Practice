@@ -1,6 +1,6 @@
 # This is Step 3
 
-We will learn about is the **paragraph tag**. The ``p`` element is used to create a **paragraph** of text on websites.
+We will learn about the **paragraph tag**. The ``p`` element is used to create a **paragraph** of text on websites.
 
 ## Examples
 
