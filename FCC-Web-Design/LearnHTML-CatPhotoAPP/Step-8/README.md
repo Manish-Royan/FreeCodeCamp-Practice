@@ -10,7 +10,7 @@ We will be learning about **HTML attributes**, which are special words used insi
 
 ## Task
 
-Add a src attribute with this URL: *`https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg`*, inside the existing img element.
+Add a src attribute with this URL: *`https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg`* , inside the existing img element.
 
 **• Add**
 
@@ -21,5 +21,5 @@ Add a src attribute with this URL: *`https://cdn.freecodecamp.org/curriculum/cat
       <!-- TODO: Add link to cat photos -->
       <p>See more cat photos in our gallery.</p>
       <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg">
-    </main>
+      </main>
 ```
