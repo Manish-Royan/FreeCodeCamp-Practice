@@ -1,6 +1,6 @@
 # This is Step 16
 
-we learned about before we adding any new content, we should make use of a `section` element to separate the *cat photos content* from the future content.
+We learned about before we adding any new content, we should make use of a `section` element to separate the *cat photos content* from the future content.
 
 **The `section` element is used to define sections in a document, such as *chapters*, *headers*, *footers*, or *any other sections* of the document**. **It is a semantic element that helps with SEO and accessibility**.
 
