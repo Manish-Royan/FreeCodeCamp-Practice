@@ -27,13 +27,13 @@ Within the `ul` element nest three list items to display three things cats love:
         </section>
 
         <section>
-            <h2>Cat Lists</h2>
-            <h3>Things cats love:</h3>
-            <ul>
-              <li>cat nip</li>
-              <li>laser pointers</li>
-              <li>lasagna</li>
-            </ul>
+          <h2>Cat Lists</h2>
+          <h3>Things cats love:</h3>
+          <ul>
+            <li>cat nip</li>
+            <li>laser pointers</li>
+            <li>lasagna</li>
+          </ul>
         </section>
     </main>
 ```
