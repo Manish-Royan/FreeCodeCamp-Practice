@@ -1,7 +1,6 @@
-# This is Step 20
+# This is Step 21
 
 We learned about `li` element which is used to create a list item in an ordered or unordered list.
-
 
 ## Examples
 
@@ -19,7 +18,7 @@ Within the `ul` element nest three list items to display three things cats love:
 
 ```HTML
     <main>
-        <h1>CatPhotoApp</h1>
+      <h1>CatPhotoApp</h1>
         <section>
         <h2>Cat Photos</h2>
         <!-- TODO: Add link to cat photos -->
