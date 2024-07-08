@@ -1,5 +1,5 @@
 # This is Step 26
 
-To place emphasis on a specific word or phrase, you can use the em element.
+After the figure element, add another h3 element with the text:
 
-Emphasize the word love in the figcaption element by wrapping it in an emphasis em element.
+Top 3 things cats hate:
