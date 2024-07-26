@@ -38,7 +38,7 @@ After the ordered list, add another `<figure></figure>` element.
                     <li>other cats</li>
                 </ol>
 
-                <figure> <!-- Add here -->
+                <figure> <!-- Added here -->
                 </figure>
                 
             </section>
