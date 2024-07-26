@@ -39,7 +39,7 @@ To improve accessibility of the image, add an `alt` attribute with the text: *`F
                 </ol>
                 
                 <figure> 
-                <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/cats.jpg" alt = "Five cats looking around a field"> <!-- Add here -->                
+                <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/cats.jpg" alt = "Five cats looking around a field"> <!-- Added here -->                
                 </figure>
                 
             </section>
