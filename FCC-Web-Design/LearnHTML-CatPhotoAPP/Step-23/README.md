@@ -27,7 +27,7 @@ Nest the image you just added within a `figure` element.
             <li>lasagna</li>
           </ul>
           <figure>      
-            <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg" alt="A slice of lasagna on a plate.">
+            <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg" alt="A slice of lasagna on a plate."> <!-- Added here -->
           </figure>
         </section>
     </main>
