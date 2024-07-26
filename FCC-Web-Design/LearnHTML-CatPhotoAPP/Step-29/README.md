@@ -38,7 +38,7 @@ Inside the `figure` element, nest an `img` element with a `src` attribute set to
                     <li>other cats</li>
                 </ol>
                 
-                <figure> <!-- Add here -->
+                <figure> <!-- Added here -->
                     <img src='https://cdn.freecodecamp.org/curriculum/cat-photo-app/cats.jpg'>
                 </figure>
                 
