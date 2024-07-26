@@ -37,7 +37,7 @@ After the image nested in the figure element, add a figcaption element with text
           </ul>
           <figure>
           <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg" alt="A slice of lasagna on a plate.">
-          <figcaption>Cats love lasagna.</figcaption>
+          <figcaption>Cats love lasagna.</figcaption> <!-- Add here -->
           </figure>
         </section>
     </main>
