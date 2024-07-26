@@ -33,7 +33,7 @@ Emphasize the word *`love`* in the `figcaption` element by wrapping it in an emp
                 </ul>
                 <figure>
                     <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg" alt="A slice of lasagna on a plate.">
-                    <figcaption>Cats <em>love</em> lasagna.</figcaption> <!-- Add Here -->
+                    <figcaption>Cats <em>love</em> lasagna.</figcaption> <!-- Added Here -->
                 </figure>     
             </section>
         </main>
