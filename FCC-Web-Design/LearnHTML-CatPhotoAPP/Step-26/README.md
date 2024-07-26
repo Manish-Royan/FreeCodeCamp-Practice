@@ -30,7 +30,7 @@ After the `figure` element, add another `h3` element with the text: *`Top 3 thin
                     <figcaption>Cats <em>love</em> lasagna.</figcaption>
                 </figure>  
                 
-                <h3>Top 3 things cats hate:</h3> <!-- Add here -->
+                <h3>Top 3 things cats hate:</h3> <!-- Added here -->
             </section>
         </main>
     </body>
