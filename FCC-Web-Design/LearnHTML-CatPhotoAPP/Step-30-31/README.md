@@ -1,4 +1,4 @@
-# This is Step 30
+# This is Step 30/31
 
 ## Task
 To improve accessibility of the image, add an `alt` attribute with the text: *`Five cats looking around a field`*.
