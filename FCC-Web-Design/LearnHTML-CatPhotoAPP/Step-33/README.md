@@ -1,9 +1,9 @@
-# This is Step 32
+# This is Step 33
 
 ## Task
 To improve accessibility of the image, add an `alt` attribute with the text: *`Five cats looking around a field`*.
 
-**• Add**
+### Add
 
 ```HTML
 <html>
